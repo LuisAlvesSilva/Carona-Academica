@@ -1,10 +1,19 @@
 export const styles = {
     btnYellow:{
         width: '100%',
-        alignItems: 'center',
-        justifyContent: 'center',
-        backgroundColor: 'yellow',
-        padding: 20
+        backgroundColor: '#ffde59',
+        padding: 20,
+        borderRadius: 20,
+        minWidth: 300,
+        alignItems: 'center'
+    },
+    btnYellow2:{
+        width: '100%',
+        backgroundColor: '#ffde59',
+        padding: 20,
+        borderRadius: 20,
+        minWidth: 300,
+        alignItems: 'center'
     },
     btnRed:{
         width: '100%',
