@@ -1,6 +1,6 @@
 ﻿# Carona Academica 🚗💛
 
-EzCar é um aplicativo de caronas desenvolvido em React Native, projetado para conectar passageiros e motoristas de maneira eficiente e segura.
+Carona Academica é um aplicativo de caronas desenvolvido em React Native, projetado para conectar alunos, sendo passageiros e motoristas de maneira eficiente e segura, para a ajuda no deslocamento, tanto para a faculdade/escola quanto para casa.
 
 ## Estrutura do Projeto
 
@@ -28,12 +28,12 @@ EzCar é um aplicativo de caronas desenvolvido em React Native, projetado para c
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/LuisAlvesSilva/EzCar.git
+   git clone https://github.com/LuisAlvesSilva/Carona-Academica.git
    ```
 
 2. **Navegar até o diretório do projeto:**
    ```bash
-   cd EzCar
+   cd Carona-Academica
    ```
 
 3. **Instalar as dependências:**
