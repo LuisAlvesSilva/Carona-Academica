@@ -1,4 +1,4 @@
-﻿# EzCar 🚗💛
+﻿# Carona Academica 🚗💛
 
 EzCar é um aplicativo de caronas desenvolvido em React Native, projetado para conectar passageiros e motoristas de maneira eficiente e segura.
 
